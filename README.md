@@ -12,3 +12,5 @@ https://console.cloud.google.com/getting-started?project=smile-detector-astropi-
 )
 
 The label returned from google cloud vision api is then sent to espeak via a commandline prompt which speaks the phrase of your choice including the returned label as a string.
+
+This is the program in action: https://www.youtube.com/watch?v=sB8h3aIdx1U
